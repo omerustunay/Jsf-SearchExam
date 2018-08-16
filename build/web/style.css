@@ -1,0 +1,39 @@
+/*
+style.css
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+*{
+    font-family: serif;
+}
+#searc-panel{
+    border-bottom: 1px solid #DDD;
+    width: 600px;
+    margin: 50px auto;
+    padding: 10px;
+}
+#searc-panel input[type='text']{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #DDD;
+    outline: none;
+    font-size: 18px;
+    font-family: serif;
+}
+#search-panel ul{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+#searc-panel ul li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    font-family: fantasy;
+}
+#searc-panel ul li:hover{
+    background-color: #ff6100;
+}

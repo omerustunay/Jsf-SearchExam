@@ -1,4 +1,4 @@
 # Jsf-SearchExam
 Java Server Faces Search Exam
 
-Apachi Tomcat kullanılarak baist bir search paneli tasarlayın.
+Apache Tomcat kullanılarak basit bir search paneli tasarlayın.
